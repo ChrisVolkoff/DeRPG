@@ -1,0 +1,4 @@
+﻿(Touche: 2) Nova - Coût: 8 mana
+
+Déploit une décharge électrique autour de vous.
+Dégats: 15

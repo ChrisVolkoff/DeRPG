@@ -1,0 +1,4 @@
+﻿(Touche: 1) Trait de feu - Coût: 2 mana
+
+Tire un projectile enflammé vers votre souris.
+Dégats: 10

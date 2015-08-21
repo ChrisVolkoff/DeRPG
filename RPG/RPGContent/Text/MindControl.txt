@@ -1,0 +1,4 @@
+﻿(Touche: 4) Confusion - Coût: 20 mana
+
+Embrouille l'esprit d'un monstre, le retournant contre ses alliés.
+Durée: 6 secondes

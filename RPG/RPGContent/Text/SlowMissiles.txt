@@ -1,0 +1,4 @@
+﻿(Touche: 3) Ralentissement - Coût: 5 mana + 3 mana par seconde
+
+Ralentit les projectiles ennemis en échange de mana par seconde.
+Pourcentage de ralentissement: 80%

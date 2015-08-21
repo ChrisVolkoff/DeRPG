@@ -1,0 +1,3 @@
+﻿(Touche: 3) Éteindre Ralentissement
+
+Désactiver Ralentissement pour arrêter de consommer du mana.

@@ -1,0 +1,30 @@
+﻿Projet d'intégration en
+Sciences informatiques et mathématiques
+
+DeRPG
+
+Hiver 2013
+Collège Lionel-Groulx
+
+David Ponton
+Christophe Bourque Bédard
+Samuel Champagne
+
+Remerciements
+Blizzard - Source d'inspiration
+Facebook - Source de procrastination
+YouTube - Source de motivation
+Abitibi Jones - ?
+Vincent et Pierre - Mentors
+
+(Appuyez sur 'espace' pour accélérer)
+
+Maple - Nemesis
+XNA - Progmobile
+TurboSquid - Incompatible
+ColNet - Confident
+Daniel - Flux
+Carrés rouges - Contretemps
+P-106 - Second chez-soi
+Champ magnétique - Tueur de clés USB
+Unicorn - Fidèle modèle
