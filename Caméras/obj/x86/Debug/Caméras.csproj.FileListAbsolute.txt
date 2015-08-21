@@ -1,0 +1,26 @@
+F:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\bin\x86\Debug\Caméras.dll
+F:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\bin\x86\Debug\Caméras.pdb
+F:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\bin\x86\Debug\GestionEntrées.dll
+F:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\obj\x86\Debug\Caméras.dll
+F:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\obj\x86\Debug\Caméras.pdb
+D:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\bin\x86\Debug\Caméras.dll
+D:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\bin\x86\Debug\Caméras.pdb
+D:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\bin\x86\Debug\GestionEntrées.dll
+D:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\obj\x86\Debug\Caméras.dll
+D:\Programmes\ChampagneSamuelAtelierSynthèse\AS2012 - Base\Caméras\obj\x86\Debug\Caméras.pdb
+F:\RPG Session 4\RPG\Caméras\bin\x86\Debug\Caméras.dll
+F:\RPG Session 4\RPG\Caméras\bin\x86\Debug\Caméras.pdb
+F:\RPG Session 4\RPG\Caméras\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPG Session 4\RPG\Caméras\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RPG Session 4\RPG\Caméras\obj\x86\Debug\Caméras.dll
+F:\RPG Session 4\RPG\Caméras\obj\x86\Debug\Caméras.pdb
+F:\RPG\RPG\Caméras\bin\x86\Debug\Caméras.dll
+F:\RPG\RPG\Caméras\bin\x86\Debug\Caméras.pdb
+F:\RPG\RPG\Caméras\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RPG\RPG\Caméras\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RPG\RPG\Caméras\obj\x86\Debug\Caméras.dll
+F:\RPG\RPG\Caméras\obj\x86\Debug\Caméras.pdb
